@@ -23,8 +23,5 @@ class Solution(object):
                 stack.append(ch)
                 
         return len(stack) == 0
-    
-            
-        # test
         
         
