@@ -1,5 +1,5 @@
 # just use a dummy to keep track of everything 
-
+# combine based off of that
 
 class Solution(object):
     def mergeTwoLists(self, list1, list2):
